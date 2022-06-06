@@ -1,1 +1,1 @@
-https://mobilemb.github.io/rsschool-cv/
+https://mobilemb.github.io/rsschool-cv/cv
