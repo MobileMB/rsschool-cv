@@ -8,15 +8,19 @@
 **Email:** job.maksimbaranau.bm@gmail.com  
 [**Github**](https://github.com/MobileMB)  
 [**Linkedin**](https://www.linkedin.com/in/maksim-baranau-3b049122b/)  
+
 *********
 ### About me:
    My names is Maksim ;) I live in Minsk. I studing in RS School. I'm getting excited!  
+
 *********
 ### Skills:
 * HTML5/CSS3  
 * JavaScript / *processing*  
 * Rust / *processing*
-* English A0 / *learning*
+* English A0 / *learning*  
+
+*********
 ### Code Example
 ```
 alert('Hello, RS School!');
