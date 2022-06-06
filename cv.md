@@ -21,12 +21,12 @@
 * English A0 / *learning*  
 
 *********
-### Code Example
+### Code Example:
 ```
 alert('Hello, RS School!');
 ```  
 > Need practic, practic and practic. (c)Budda.
 
 *********
-### Education
+### Education:
 * [RSSchool#0/2022Q2](https://rs.school/js-stage0/)
